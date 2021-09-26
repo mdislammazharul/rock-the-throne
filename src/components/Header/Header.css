@@ -1,0 +1,12 @@
+body{
+    background-image: url(https://i.ibb.co/zbWNTPB/background-image.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: .95;
+}
+.header{
+    background-color: #202020;
+    margin-left: 30px;
+    margin-right: 30px;
+}

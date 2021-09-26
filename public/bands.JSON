@@ -1,0 +1,134 @@
+[
+    {
+        "key": "B002RL8IYK",
+        "category": "Rock",
+        "name": "Arbovirus",
+        "albums": 6,
+        "establish": 2002,
+        "rate": 120000,
+        "img": "https://i.ibb.co/zSDFzxt/arbovirusbd.jpg",
+        "star": 4.3,
+        "starCount": 3245
+    },
+    {
+        "key": "B002AL8IYK",
+        "category": "Metal",
+        "name": "Artcell",
+        "albums": 7,
+        "establish": 1999,
+        "rate": 160000,
+        "img": "https://i.ibb.co/HG21kx6/artcell.jpg",
+        "star": 4.6,
+        "starCount": 7745
+    },
+    {
+        "key": "B002BL8IYK",
+        "category": "Rock",
+        "name": "Aurthohin",
+        "albums": 8,
+        "establish": 1998,
+        "rate": 130000,
+        "img": "https://i.ibb.co/t8pLQhZ/aurthohin.jpg",
+        "star": 4.4,
+        "starCount": 5245
+    },
+    {
+        "key": "B002CL8IYK",
+        "category": "Rock",
+        "name": "Black",
+        "albums": 4,
+        "establish": 1998,
+        "rate": 120000,
+        "img": "https://i.ibb.co/DgfrsZ8/black.jpg",
+        "star": 4.1,
+        "starCount": 2245
+    },
+    {
+        "key": "B002DL8IYK",
+        "category": "Rock",
+        "name": "Chirkut",
+        "albums": 7,
+        "establish": 2002,
+        "rate": 140000,
+        "img": "https://i.ibb.co/0DX4S7q/chirkut.jpg",
+        "star": 4.8,
+        "starCount": 8890
+    },
+    {
+        "key": "B002EL8IYK",
+        "category": "Psychedelic Rock",
+        "name": "Meghdol",
+        "albums": 4,
+        "establish": 2003,
+        "rate": 150000,
+        "img": "https://i.ibb.co/p2NGRPD/meghdol.jpg",
+        "star": 4.6,
+        "starCount": 6757
+    },
+    {
+        "key": "B002FL8IYK",
+        "category": "Rock",
+        "name": "Miles",
+        "albums": 12,
+        "establish": 1979,
+        "rate": 155000,
+        "img": "https://i.ibb.co/4W6Ds6B/miles.jpg",
+        "star": 4.6,
+        "starCount": 6641
+    },
+    {
+        "key": "B002GL8IYK",
+        "category": "Rock",
+        "name": "Nagarbaul",
+        "albums": 15,
+        "establish": 1977,
+        "rate": 180000,
+        "img": "https://i.ibb.co/bH316HR/nagarbaul.jpg",
+        "star": 4.8,
+        "starCount": 9942
+    },
+    {
+        "key": "B002HL8IYK",
+        "category": "Rock",
+        "name": "Sironamhin",
+        "albums": 7,
+        "establish": 1996,
+        "rate": 160000,
+        "img": "https://i.ibb.co/TRWfB7k/sironamhin.jpg",
+        "star": 4.5,
+        "starCount": 8423
+    },
+    {
+        "key": "B002IL8IYK",
+        "category": "Flok",
+        "name": "Sohojia",
+        "albums": 3,
+        "establish": 2013,
+        "rate": 130000,
+        "img": "https://i.ibb.co/cXKHmV4/sohojia.jpg",
+        "star": 4.3,
+        "starCount": 4342
+    },
+    {
+        "key": "B002JL8IYK",
+        "category": "Rock",
+        "name": "Souls",
+        "albums": 13,
+        "establish": 1972,
+        "rate": 120000,
+        "img": "https://i.ibb.co/mHBCP0H/souls.jpg",
+        "star": 4.1,
+        "starCount": 3322
+    },
+    {
+        "key": "B002KL8IYK",
+        "category": "Heavy Metal",
+        "name": "Warfez",
+        "albums": 11,
+        "establish": 1984,
+        "rate": 200000,
+        "img": "https://i.ibb.co/YWqSf3W/warfaze.jpg",
+        "star": 4.9,
+        "starCount": 9991
+    }
+]

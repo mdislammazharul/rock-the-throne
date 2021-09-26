@@ -1,0 +1,16 @@
+.card-background{
+    background-color: #000000;
+    background-image: linear-gradient(147deg, #000000 0%, #434343 74%);
+}
+
+.band-image img{
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.icon-color{
+	color: #dc3545;
+	text-align: center;
+}
+
