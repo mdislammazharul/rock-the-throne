@@ -5,15 +5,16 @@
 ## Live Link
 
 Use the link to open the Live Site of this project.
+[Rock The Throne](https://rock-the-throne-mdislammazharul.netlify.app)
 
 ```bash
-rock-the-throne-mdislammazharul.netlify.app
+rock-the-throne-mdislammazharul.netlify.app | 
 ```
 
 ## About the Site
---> The site uses React Library for building user interfaces and UI components.
---> Used Bootstrap as CSS framework.
---> Used Fontawesome for icons.
+1. The site uses React Library for building user interfaces and UI components.
+2. Used Bootstrap as CSS framework.
+3. Used Fontawesome for icons.
 
 ## License
 [Md Mazharul Islam](https://github.com/mdislammazharul)
