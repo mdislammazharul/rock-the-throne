@@ -8,7 +8,7 @@ Use the link to open the Live Site of this project.
 [Rock The Throne](https://rock-the-throne-mdislammazharul.netlify.app)
 
 ```bash
-rock-the-throne-mdislammazharul.netlify.app | 
+rock-the-throne-mdislammazharul.netlify.app
 ```
 
 ## About the Site
